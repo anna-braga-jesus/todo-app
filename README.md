@@ -1,5 +1,5 @@
 ## ToDo APP
-Um aplicativo gerenciador de tarefas diárias.
+Um aplicativo (executável) gerenciador de tarefas diárias.
 
 ## Tecnologias
 - Python 3.6 ou superior
